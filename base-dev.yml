@@ -12,7 +12,7 @@ spring:
     name: project-base #注册中心 中的名字
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.2.129:3306/myproject_base?characterEncoding=utf-8
+    url: jdbc:mysql://192.168.2.129:3306/myproject_baseXXXX?characterEncoding=utf-8
     username: root
     password: root123
   jpa:
