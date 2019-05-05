@@ -25,7 +25,7 @@ spring:
   rabbitmq:
     host: 192.168.2.129
 
-my:
+project:
   host: 127.0.0.1
 #    hibernate:
 #      ddl-auto: update
