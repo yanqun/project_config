@@ -22,6 +22,8 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+  rabbitmq:
+    host: 192.168.2.129
 
 #    hibernate:
 #      ddl-auto: update
